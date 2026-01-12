@@ -7,6 +7,5 @@ This project demonstrates building and evaluating a logistic regression model us
 3. Evaluation (Accuracy, Confusion matrix, Classification report)
 
 ## Tools
-pandas
-scikit-learn
+pandas and scikit-learn
 
